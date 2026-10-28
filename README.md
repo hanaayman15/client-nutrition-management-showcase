@@ -10,7 +10,7 @@ A deployed full-stack web application for client nutrition management, personali
 
 Watch the walkthrough of the deployed application:
 
-**[Watch the project demo](PASTE-YOUR-PUBLIC-VIDEO-LINK-HERE)**
+**[Watch the project demo](https://github.com/hanaayman15/client-nutrition-management-showcase/blob/main/CLIENT%20NUTRITION%20MANAGEMENT%20SYSTEM%20(COMPRESSED).mp4)**
 
 ## ✨ Key Features
 
